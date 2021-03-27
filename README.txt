@@ -6,6 +6,10 @@ How to bypass your ban properly
 
 > Fresh install VRC
 
+> Set up MelonLoader
+
+> Install "Mods" Folder
+
 > Spoof your GUID
 
 > Spoof your MAC Address(s)
@@ -24,4 +28,3 @@ How to bypass your ban properly
   ░   ▒      ░   ░ ░   ░       ▒ ░   ░  ░  ░  ░ ░ ░ ▒  ░         ▒ ░  ░   ▒     ░ ░   
       ░  ░         ░           ░           ░      ░ ░  ░ ░       ░        ░  ░    ░  ░
                                                        ░                              
- 
